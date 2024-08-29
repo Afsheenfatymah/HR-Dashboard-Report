@@ -6,27 +6,27 @@ I’m thrilled to share my latest project: a detailed HR Dashboard Report! 🎉
 
 # Features:
 
-# 📊 Employee Salary Analysis:
+# • 📊 Employee Salary Analysis:
 View individual salaries.
-# 📈 Performance Tracking: 
+# •📈 Performance Tracking: 
 See performance scores and job positions.
-# 👤 Demographic Details:
+# •👤 Demographic Details:
 Filter by gender, marital status, and department.
-# 🌍 Geographic Insights:
+# • 🌍 Geographic Insights:
 Interactive map showing employee states.
 
 
 # Repository Includes:
 
-Code for the dashboard
-Data visualization scripts
-README file with setup instructions
+• Code for the dashboard
+• Data visualization scripts
+• README file with setup instructions
 🔗(https://github.com/Afsheenfatymah/HR-Dashboard-Report.git)
 
 Feel free to fork, contribute, or raise issues!
 
 
-Contact Information:📧
+# 📧 Contact Information:
 
 For any questions or suggestions, please contact me at:
 
