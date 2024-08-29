@@ -1,7 +1,7 @@
 # 🛠️HR-Dashboard-ReportGitHub Post:🛠️
 
 
-# I’m thrilled to share my latest project: a detailed HR Dashboard Report! 🎉
+I’m thrilled to share my latest project: a detailed HR Dashboard Report! 🎉
 
 
 # Features:
