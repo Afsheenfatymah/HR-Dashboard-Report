@@ -21,7 +21,7 @@ Interactive map showing employee states.
 Code for the dashboard
 Data visualization scripts
 README file with setup instructions
-🔗 [Link to GitHub repository]
+🔗(https://github.com/Afsheenfatymah/HR-Dashboard-Report.git)
 
 Feel free to fork, contribute, or raise issues!
 
