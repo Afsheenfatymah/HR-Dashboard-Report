@@ -36,7 +36,7 @@ For any questions or suggestions, please contact me at:
 
 Email: afsheenfatymah@gmail.com
 
-LinkedIn: www.linkedin.com/in/afsheen-fatima-912757321
+LinkedIn: www.linkedin.com/in/afsheen-fatymah-912757321
 
 Github: https://github.com/Afsheenfatymah
 
