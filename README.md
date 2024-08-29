@@ -1,7 +1,8 @@
-# 🛠️HR-Dashboard-ReportGitHub Post:🛠️
+# 🛠️HR-Dashboard-Report:🛠️
 
 
-I’m thrilled to share my latest project: a detailed HR Dashboard Report! 🎉
+I’m thrilled to share my latest project: 
+a detailed HR Dashboard Report! 🎉
 
 
 # Features:
@@ -19,8 +20,11 @@ Interactive map showing employee states.
 # Repository Includes:
 
 • Code for the dashboard
+
 • Data visualization scripts
+
 • README file with setup instructions
+
 🔗(https://github.com/Afsheenfatymah/HR-Dashboard-Report.git)
 
 Feel free to fork, contribute, or raise issues!
